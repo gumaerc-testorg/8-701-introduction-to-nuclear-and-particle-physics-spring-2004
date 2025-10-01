@@ -33,7 +33,7 @@ This course covers the phenomenology and experimental foundations of particle an
 Prerequisites
 -------------
 
-Quantum Theory I ([8.321](https://ocw.mit.edu/courses/physics/8-321-quantum-theory-i-fall-2017/)) and Quantum Theory II ([8.322]({{% getpage "courses/8-322-quantum-theory-ii-spring-2003/sections" %}}))
+Quantum Theory I ({{% resource_link "27ae1f35-065f-47bd-b1a0-b7a54a5b98b7" "8.321" %}}) and Quantum Theory II ([8.322]({{% getpage "courses/8-322-quantum-theory-ii-spring-2003/sections" %}}))
 
 Homework
 --------
